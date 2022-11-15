@@ -1,0 +1,16 @@
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.csproj.AssemblyReference.cache
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.AssemblyInfoInputs.cache
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.AssemblyInfo.cs
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.csproj.CoreCompileInputs.cache
+/home/suman/Pictures/learning-c-sharp/bin/Debug/net5.0/learning-c-sharp
+/home/suman/Pictures/learning-c-sharp/bin/Debug/net5.0/learning-c-sharp.deps.json
+/home/suman/Pictures/learning-c-sharp/bin/Debug/net5.0/learning-c-sharp.runtimeconfig.json
+/home/suman/Pictures/learning-c-sharp/bin/Debug/net5.0/learning-c-sharp.runtimeconfig.dev.json
+/home/suman/Pictures/learning-c-sharp/bin/Debug/net5.0/learning-c-sharp.dll
+/home/suman/Pictures/learning-c-sharp/bin/Debug/net5.0/ref/learning-c-sharp.dll
+/home/suman/Pictures/learning-c-sharp/bin/Debug/net5.0/learning-c-sharp.pdb
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.dll
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/ref/learning-c-sharp.dll
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.pdb
+/home/suman/Pictures/learning-c-sharp/obj/Debug/net5.0/learning-c-sharp.genruntimeconfig.cache
